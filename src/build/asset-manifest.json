@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/userdeatilslive/static/css/main.89951591.css",
+    "main.js": "/userdeatilslive/static/js/main.b7bdc5a1.js",
+    "static/js/787.fba9a119.chunk.js": "/userdeatilslive/static/js/787.fba9a119.chunk.js",
+    "static/media/White-simple-textured-design-background.jpg": "/userdeatilslive/static/media/White-simple-textured-design-background.ae8e49ed9032228e95ec.jpg",
+    "index.html": "/userdeatilslive/index.html",
+    "main.89951591.css.map": "/userdeatilslive/static/css/main.89951591.css.map",
+    "main.b7bdc5a1.js.map": "/userdeatilslive/static/js/main.b7bdc5a1.js.map",
+    "787.fba9a119.chunk.js.map": "/userdeatilslive/static/js/787.fba9a119.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89951591.css",
+    "static/js/main.b7bdc5a1.js"
+  ]
+}

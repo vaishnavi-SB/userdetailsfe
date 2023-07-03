@@ -1,0 +1,27 @@
+.navbaritemWrapper{
+  margin-left:  22px;
+   color: #1976d2;
+   text-decoration: none;
+   font-weight: 500;
+}
+
+.bgImageWrapper{
+  background-image: url('./assets/images/White-simple-textured-design-background.jpg');
+  background-color: #cccccc;
+  height: 609px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+}
+
+.navbaritemWrapper:hover {
+  color: #0f0f10;
+}
+
+.movieIconWrapper{
+  color: black;
+   height: 50px; 
+   width: 50px
+}
